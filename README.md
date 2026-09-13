@@ -168,3 +168,7 @@ On identification the party learns the kind, level, save DC, onset, maximum
 duration, and the stage they are at; each further stage unlocks as it is
 suffered. The other way round, revealing a creature's venom ability here
 identifies open cases in the tracker. Neither module requires the other.
+
+## Get help
+
+[Get Help](https://github.com/Spazzletopia-Studios/spazzmods-support) — report a bug, get install help, ask a question, or suggest an idea.
