@@ -4,6 +4,11 @@ A Bestiary tab on every player's character sheet. Creatures the party has
 met show up redacted, and facts unlock as the GM reveals them, a player
 researches them in downtime, or the party studies a dragged-in stat block.
 
+Redaction only hides facts on the sheet's display. Foundry sends world
+settings to every client, so a player who opens the browser console can
+still read locked facts and unshared GM notes out of the raw store — do not
+put real secrets there.
+
 ## Install
 
 **The easy way (Windows):** download the [SpazzMods Installer](https://github.com/Spazzletopia-Studios/spazzmods-installer/releases/latest),
@@ -41,7 +46,7 @@ Manifest URL** box:
 
 ---
 
-**Foundry v13–v14 · PF2e system 8.x** (built and verified against PF2e 8.4.0 / Foundry 14.363)
+**Foundry v13–v14 · PF2e system 7.12.2+ on Foundry 13, 8.x on Foundry 14** (verified against PF2e 7.12.2 / Foundry 13.351 and PF2e 8.5.0 / Foundry 14.368)
 
 This tab used to ship inside **PF2e Encounter Console**. It is its own module
 now so a table can have it without the console. With the console installed
